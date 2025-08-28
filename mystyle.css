@@ -16,12 +16,15 @@ h2{
 
 .vertical-line {
     border-left: 10px solid orange;
-    height: 230px;
+    height: 300x;
     position: absolute;
-    left: 15%;
+    left: 40%;
     margin-left: -3px;
   top: 15;
 }
-strong {
+</p> {
+    color: gold;
+}
+<p> {
     color: gold;
 }
