@@ -13,18 +13,11 @@ h2{
     color: yellow;
     text-align: left;
 }
-
 .vertical-line {
     border-left: 10px solid orange;
     height: 300x;
     position: absolute;
     left: 40%;
     margin-left: -3px;
-  top: 15;
-}
-</p> {
-    color: gold;
-}
-<p> {
-    color: gold;
+  top: 13;
 }
