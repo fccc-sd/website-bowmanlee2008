@@ -13,10 +13,7 @@ h2{
     color: yellow;
     text-align: left;
 }
-hr2 {
-    color: yellow;
-    text-align: left;
-}
+
 .vertical-line {
     border-left: 10px solid orange;
     height: 230px;
