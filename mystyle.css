@@ -1,26 +1,22 @@
 h1 {
     color: yellow;
 }
+
 h3 {
     color: lightblue;
     text-align: left;
 }
+
 h4 {
     color: white;
     text-align: left;
 }
+
 h2{
     color: yellow;
     text-align: left;
 }
-.vl {
-    border-left: 10px solid orange;
-    height: 300x;
-    position: absolute;
-    left: 40%;
-    margin-left: -3px;
-  top: 13;
-}
+
 h6 {
     color: goldenrod;
 }
