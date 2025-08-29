@@ -13,11 +13,17 @@ h2{
     color: yellow;
     text-align: left;
 }
-.vertical-line {
+.vl {
     border-left: 10px solid orange;
     height: 300x;
     position: absolute;
     left: 40%;
     margin-left: -3px;
   top: 13;
+}
+h6 {
+    color: goldenrod;
+}
+::backdrop {
+background-color: black;
 }
