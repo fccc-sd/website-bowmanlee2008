@@ -1,26 +1,21 @@
-h1 {
+h1, h6
+{
     color: yellow;
 }
 
-h3 {
+h3 
+{
     color: lightblue;
     text-align: left;
 }
 
-h4 {
+h4, h2
+{
     color: goldenrod;
     text-align: left;
 }
-
-h2{
-    color: yellow;
-    text-align: left;
-}
-
-h6 {
-    color: gold;
-}
-::backdrop {
+::backdrop 
+{
 background-color: black;
 }
 ol
@@ -30,4 +25,8 @@ ol
 ol
 {
   list-style-type: upper-roman;
+}
+img
+{
+    background-color: blue;
 }
