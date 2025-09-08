@@ -1,5 +1,6 @@
-h1, h6
+h1
 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
     color: yellow;
 }
 
@@ -9,7 +10,7 @@ h3
     text-align: left;
 }
 
-h4, h2
+h4, h2, h6
 {
     color: goldenrod;
     text-align: left;
