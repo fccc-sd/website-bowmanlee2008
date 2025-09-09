@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    
+<head>
+        <meta charset="utf-8">
+        <meta name="description" content="This is michael lee's page">
+        <meta name="keywords" content="Michael Lee, about me">
+        <title> Michael lee page </title>
+        <link rel="stylesheet" href="mystyle.css">
+        <link rel="stylesheet" href="style.css">
+    </head>
+    
+    <body>
+        <h2>This is Michael's second page</h2>
+    </body>
+</html>
