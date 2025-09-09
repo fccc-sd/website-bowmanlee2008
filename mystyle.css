@@ -34,3 +34,7 @@ nav
 {
    background-color: darkcyan;
 }
+nav li
+{
+    display: inline;
+}
