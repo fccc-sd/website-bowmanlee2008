@@ -33,6 +33,7 @@ ul
 }
 nav
 {
+    text-size-adjust: 30;
    background-color: darkcyan;
    line-height: 200%;
    display: block;
@@ -46,7 +47,7 @@ nav li
 nav a:link
 {
     text-decoration: none;
-    color:greenyellow 
+    color:greenyellow  
 }
 nav a:visited
 {
@@ -54,5 +55,10 @@ nav a:visited
 }
 nav a:hover
 {
+    text-decoration: underline;
+}
+nav a:hover
+{
+    color:silver;
     text-decoration: underline;
 }
