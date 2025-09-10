@@ -1,0 +1,65 @@
+h1
+{
+    color: yellow;
+}
+
+h3 
+{
+    color: lightblue;
+    text-align: left;
+}
+
+h4, h2, h6
+{
+    color: goldenrod;
+    text-align: left;
+}
+::backdrop 
+{
+background-color: black;
+}
+ol
+{
+ color:lime;
+}
+ol
+{
+  list-style-type: upper-roman;
+}
+ul
+{
+   color: blue;
+   list-style-type: upper-roman;
+}
+nav
+{
+   background-color: darkcyan;
+   line-height: 230%;
+   display: block;
+}
+nav li
+{
+    display: inline;
+    padding-right: 58px;
+    list-style-type: none;
+    color:greenyellow 
+}
+nav a:link
+{
+    text-decoration: none;
+    color:greenyellow  
+}
+nav a:visited
+{
+    color:greenyellow
+}
+nav a:hover
+{
+    color:darkgreen;
+    text-decoration: underline;
+}
+nav a:active
+{
+    color:silver;
+    text-decoration: underline;
+}
