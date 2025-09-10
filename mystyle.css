@@ -33,7 +33,6 @@ ul
 }
 nav
 {
-    text-size-adjust: 35%;
    background-color: darkcyan;
    line-height: 200%;
    display: block;
@@ -41,7 +40,7 @@ nav
 nav li
 {
     display: inline;
-    padding-right: 52px;
+    padding-right: 58px;
     list-style-type: none;
 }
 nav a:link
