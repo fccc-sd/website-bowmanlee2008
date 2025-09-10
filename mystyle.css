@@ -29,6 +29,7 @@ ol
 ul
 {
    color: blue;
+   list-style-type: upper-roman;
 }
 nav
 {
@@ -41,4 +42,12 @@ nav li
     display: inline;
     padding-right: 52px;
     list-style-type: none;
+}
+nav a:link
+{
+    color:greenyellow
+}
+nav a:visited
+{
+    color:greenyellow
 }
