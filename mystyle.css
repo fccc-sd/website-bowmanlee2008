@@ -45,9 +45,14 @@ nav li
 }
 nav a:link
 {
-    color:greenyellow
+    text-decoration: none;
+    color:greenyellow 
 }
 nav a:visited
 {
     color:greenyellow
+}
+nav a:hover
+{
+    text-decoration: underline;
 }
